@@ -1,0 +1,8 @@
+a = input ('Type something:' )
+print (f'So only spaces? {a.isspace ()} ')
+print (f'Is it numeric? {a.isnumeric ()} ')
+print (f'Is it alphabetical? {a.isalpha ()} ')
+print (f'Is it alphanumeric? {a.isalnum ()} ')
+print (f'Is it in capital letters? {a.isupper ()} ')
+print (f'Is it in lower case? {a.islower ()} ')
+print (f'Is it capitalized? {a.istitle ()} ')
